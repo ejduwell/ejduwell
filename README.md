@@ -2,7 +2,7 @@
 
 ## Code:
 
-### TextyBeast: An AI Video Text-Scraping Repository:
+### TextyBeast: A Python Repository for Scraping Text from Video with AI
 
 <p align="center">
   <img src="https://github.com/ejduwell/TextyBeast/blob/main/textyBeastLogo.png" alt="TextyBeast Logo">
