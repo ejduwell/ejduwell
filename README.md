@@ -26,7 +26,11 @@
   <a href="https://github.com/ejduwell/TextyBeast/tree/main#readme">Learn more about TextyBeast here ...</a>
 </p>
 
-## Publications:
+## Research:
+
+[Ethan's ResearchGate Page](https://www.researchgate.net/profile/Ethan-Duwell)
+
+### Publications:
 
 1) Duwell EJ, Woertz EN, Mathis J, Carroll J, DeYoe EA. Aberrant visual population receptive fields in human albinism. J Vis. 2021 May 3;21(5):19. doi: 10.1167/jov.21.5.19. PMID: 34007988; PMCID: PMC8142699.
    
