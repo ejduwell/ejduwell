@@ -19,8 +19,14 @@
    use case, but it could could be used for other applications as well. 
 
    TextyBeast can be configured to run jobs locally, remotely (including SLURM clusters), or both.
-    
+   It can be run on the command line via a set bash commands and also has a minimal GUI interface 
+   pictured below:
   </div>
+
+<p align="center">
+  <img src="https://github.com/ejduwell/TextyBeast/blob/main/TextyBeastGuiRunning.png" alt="TextyBeast Gui">
+  <br>
+</p>
 
 <p align="center">
   <a href="https://github.com/ejduwell/TextyBeast/tree/main#readme">Learn more about TextyBeast here ...</a>
