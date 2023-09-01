@@ -2,6 +2,8 @@
 
 ## Code:
 
+### TextyBeast: An AI Video Text-Scraping Repository:
+
 <p align="center">
   <img src="https://github.com/ejduwell/TextyBeast/blob/main/textyBeastLogo.png" alt="TextyBeast Logo">
   <br>
