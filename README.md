@@ -21,7 +21,7 @@
    from MMOCR, OpenAI's Whisper, and Pyannote. 
     
    This repository was developed to scrape text data from video recorded lectures and classroom 
-   sessions in an effort to provide low-level data describing spoken and written information within 
+   sessions in an effort to capture low-level spoken and written language data within 
    a course/curriculum for educational research and curricular development. This is it's intended 
    use case, but it could could be used for other applications as well. 
 
