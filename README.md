@@ -2,7 +2,12 @@
 
 ## Code:
 
-### TextyBeast: A Python Repository for Scraping Text from Video with AI
+<p align="center">
+  <h3> TextyBeast: A Python Repository for Scraping Text from Video with AI </h3>
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github.com/ejduwell/TextyBeast/blob/main/textyBeastLogo.png" alt="TextyBeast Logo">
@@ -24,6 +29,7 @@
    It can be run on the command line via a set bash commands and also has a minimal GUI interface 
    pictured below:
   </div>
+</p>
 
 <p align="center">
   <img src="https://github.com/ejduwell/TextyBeast/blob/main/TextyBeastGuiRunning.png" alt="TextyBeast Gui">
