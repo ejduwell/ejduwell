@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ejduwell/TextyBeast/tree/main#readme">Learn more about TextyBeast here ...</a>
+  <a href="https://github.com/ejduwell/TextyBeast/tree/main#readme" style="font-size: 40px;">Learn more about TextyBeast here ...</a>
 </p>
 
 ## Research:
