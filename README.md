@@ -1,6 +1,6 @@
 # Ethan Duwell, PhD
 
-## Code:
+## Select GitHub Repositories:
 
 <table align="center">
   <tr>
@@ -37,6 +37,10 @@
   </tr>
 </table>
 
+<p align="center">
+<a href="https://github.com/ejduwell/TextyBeast"><strong> (Click here to see all of Ethan's repositories) </strong></a>
+</p>
+  
 ## Research:
 
 [Ethan's ResearchGate Page](https://www.researchgate.net/profile/Ethan-Duwell)
