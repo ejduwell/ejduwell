@@ -38,13 +38,13 @@
 </table>
 
 <p align="center">
-<a href="https://github.com/ejduwell?tab=repositories"><strong> (Click here to see all of Ethan's repositories) </strong></a>
+<a href="https://github.com/ejduwell?tab=repositories"><strong> Click here to see all of Ethan's repositories </strong></a>
 </p>
   
 ## Research:
 
 <p align="center">
-<a href="https://www.researchgate.net/profile/Ethan-Duwell"><strong> Ethan's ResearchGate Page </strong></a>
+<a href="https://www.researchgate.net/profile/Ethan-Duwell"><strong> Click here to see Ethan's ResearchGate page </strong></a>
 </p>
 
 ## Publications:
