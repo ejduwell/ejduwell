@@ -51,7 +51,7 @@
 
 1) Sebok-Syer, S.S., Smirnova, A., Duwell, E.J., George, B.C., Triola, M.M., Feddock, C.A., Chahine, S., Rubright, J.D. and Thoma, B. (2024) ‘Sharing Is Caring: Helping Institutions and Health Organizations Leverage Data for Educational Improvement’, <i>Perspectives on Medical Education</i>, 13(1), p. 486–495. [link](https://pmejournal.org/articles/10.5334/pme.1081)
 
-2) Duwell EJ, Woertz EN, Mathis J, Carroll J, DeYoe EA. BOLD Contrast Response Characteristics of Aberrant Voxels with Bilateral Visual Population Receptive Fields in Human Albinism. bioRxiv [Preprint]. 2024 May 31:2024.05.26.595603. doi: 10.1101/2024.05.26.595603. PMID: 38853944; PMCID: PMC11160651. [link](https://www.biorxiv.org/content/10.1101/2024.05.26.595603v1.full)
+2) Duwell EJ, Woertz EN, Mathis J, Carroll J, DeYoe EA. BOLD Contrast Response Characteristics of Aberrant Voxels with Bilateral Visual Population Receptive Fields in Human Albinism. bioRxiv [Preprint]. 2024 May 31:2024.05.26.595603. doi: 10.1101/2024.05.26.595603. PMID: 38853944; PMCID: PMC11160651. [link](https://www.biorxiv.org/content/10.1101/2024.05.26.595603v1.full.pdf)
 
 3) Duwell EJ, Woertz EN, Mathis J, Carroll J, DeYoe EA. *Aberrant visual population receptive fields in human albinism.* J Vis. 2021 May 3;21(5):19. doi: 10.1167/jov.21.5.19. PMID: 34007988; PMCID: PMC8142699. [link](https://jov.arvojournals.org/article.aspx?articleid=2772610)
 
