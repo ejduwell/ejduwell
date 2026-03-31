@@ -43,7 +43,9 @@
   
 ## Research:
 
-[Ethan's ResearchGate Page](https://www.researchgate.net/profile/Ethan-Duwell)
+<p align="center">
+<a href="https://www.researchgate.net/profile/Ethan-Duwell"><strong> Ethan's ResearchGate Page </strong></a>
+</p>
 
 ## Publications:
 
