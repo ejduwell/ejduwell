@@ -38,7 +38,7 @@
 </table>
 
 <p align="center">
-<a href="https://github.com/ejduwell/TextyBeast"><strong> (Click here to see all of Ethan's repositories) </strong></a>
+<a href="https://github.com/ejduwell?tab=repositories"><strong> (Click here to see all of Ethan's repositories) </strong></a>
 </p>
   
 ## Research:
